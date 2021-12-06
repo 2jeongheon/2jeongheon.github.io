@@ -1,10 +1,7 @@
 <div class="row clearfix layout layout-left">
   <div class="col-xs-12 col-sm-4 col-md-3 col-print-12 details">
-    {%- if include.item.name -%}<h4>{{ include.item.name }}</h4>{%- endif -%}
-    {%- if include.item.company -%}
-      {% include h4.html id=include.item.id %}{{ include.item.company }}</h4>
-      <h4 id="1">{{ include.item.company }}</h4>
-    {%- endif -%}
+    {%- if include.item.name -%}<h4 id="{{ include.item.name }}">{{ include.item.name }}</h4>{%- endif -%}
+    {%- if include.item.company -%}<h4>{{ include.item.company }}</h4>{%- endif -%}
     {%- if include.item.link -%}
       {% include a.html href=include.item.link class="link" %}{{ include.item.link }}</a>
     {%- endif -%}

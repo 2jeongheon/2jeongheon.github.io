@@ -1,14 +1,10 @@
 - layout: top-middle
   name: (주)티비스톰
-  link: 
   quote: >
     2019.06 ~ 현재
 
 - layout: left
-  id: 1
-  company: VOD추천 어플리케이션
-  link: 
-  job_title: 
+  name: VOD추천 어플리케이션
   dates: 2021.11
   quote: >
    사용자 선호도에 따른 추천VOD 정확도 평가 어플리케이션, IITP AI 국책과제 발표용 데모
@@ -20,9 +16,7 @@
     * 별점 평가 Composable 구현
 
 - layout: left
-  company: COVID-19 비대면 문진 키오스크
-  link: 
-  job_title: 
+  name: COVID-19 비대면 문진 키오스크
   dates: 2021.06 ~ 2021.10
   quote: >
    COVID-19 의심증상을 음성대화로 문진하여 선별진료소로 안내하는 키오스크형 어플리케이션, IITP AI 국책과제 산출물
@@ -33,9 +27,7 @@
     * WorkManager를 사용한 센서값 보정 백그라운드 작업
 
 - layout: left
-  company: VitalSign
-  link: 
-  job_title: 
+  name: VitalSign
   dates: 2020.11 ~ 2021.01
   quote: >
    얼굴영상 기반 건강진단 어플리케이션, IITP AI 국책과제 산출물
@@ -46,9 +38,7 @@
     * 건강진단 내역보기 기능 구현
 
 - layout: left
-  company: Home IoT TV & Mobile
-  link: 
-  job_title: 
+  name: Home IoT TV & Mobile
   dates: 2020.02 ~ 2020.07
   quote: >
    TV셋톱박스를 Home IoT Hub로 사용하는 서비스
@@ -59,10 +49,8 @@
     * 개발 중 사업 중단
 
 - layout: left
-  id: 2
-  company: OneStream & FMX Core
+  name: OneStream & FMX Core
   link: https://play.google.com/store/apps/details?id=com.bestv.fmgomobile&hl=ko&gl=US/
-  job_title: 
   dates: 2019.12 ~ 2020.01
   quote: >
    인도네시아 OTT TV 어플리케이션
@@ -73,12 +61,9 @@
     * ExoPlayer, NagraSDK(DRM) 사용 스트리밍 재생
 
 - layout: left
-  company: 사내 서비스 리팩토링 & 유지보수
-  link: 
-  job_title: 
+  name: 사내 서비스 리팩토링 & 유지보수
   dates: 2019.06 ~ 2021.06
   quote: >
-   인도네시아 OTT TV 어플리케이션
   description: | # this will include new lines to allow paragraphs
     * Android TV 셋톱박스 어플리케이션 유지보수
     * 중복, 무의미, deprecated 코드 제거 및 수정
@@ -88,15 +73,12 @@
 
 - layout: top-middle
   name: 시니스트
-  link: 
   quote: >
     2016.04 ~ 2019.06
 
 - layout: left
-  id: 어댑터
-  company: 어댑터
+  name: 어댑터
   link: https://play.google.com/store/apps/details?id=com.sinest.todaycoin&hl=ko&gl=US/
-  job_title: 
   dates: 2018.06 ~ 2019.06
   quote: >
    블록체인 커뮤니티 어플리케이션
@@ -111,9 +93,7 @@
     * Bitrise를 사용하여 사내 테스트 배포 자동화, 마켓릴리즈 프로세스 자동화
 
 - layout: left
-  company: 어댑터 토큰 지갑
-  link: 
-  job_title: 
+  name: 어댑터 토큰 지갑
   dates: 2018.12 ~ 2019.06
   quote: >
    Trust Wallet Core 기반 라이브러리
@@ -124,9 +104,7 @@
     * 라이브러리 문서화(KDoc) 및 버전관리
 
 - layout: left
-  company: 아웃소싱 프로젝트 Android 개발 / 관리
-  link: 
-  job_title: 
+  name: 아웃소싱 프로젝트 Android 개발 / 관리
   dates: 2016.04 ~ 2019.06
   quote: >
   description: | # this will include new lines to allow paragraphs

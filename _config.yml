@@ -47,9 +47,6 @@ footer_show_references: true
 
 # Build settings
 remote_theme: sproogen/resume-theme
-markdown: kramdown
-kramdown:
-  auto_ids: true
 
 sass:
   sass_dir: _sass
