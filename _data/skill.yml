@@ -1,0 +1,21 @@
+- layout: top-middle
+  name: 
+  description: | # this will include new lines to allow paragraphs
+    * Kotlin∙Java
+    * Coroutine∙Flow∙RxKotlin(Java)
+    * MVVM∙MVP∙Clean Architecture
+    * Jetpack AAC(LiveData∙ViewModel∙DataBinding∙Room∙DataStore∙WorkManager), Navigation
+    * Dependency Injection(Dagger2∙Hilt)
+    * Retrofit2∙Volley∙OkHttp
+    * Compose
+    * Custom View
+    * AAR 라이브러리 개발 경험
+    * 비즈니스 로직 Unit Test
+    * Firebase(Cloud Message∙AdMob∙Crashlytics∙App Distribution∙Realtime Database), GoogleMap 등 플랫폼 솔루션 활용 경험 
+    * PlayStore 등록∙인앱 결제 구현 경험
+    * Bitrise CI∙CD
+    * Git, Github PR, Gitlab MR
+    * JIRA∙Mantis 등 이슈 트래커 사용
+    * Asana∙Wrike 등 프로젝트 관리 도구 사용
+    * Zeplin 디자인 협업
+

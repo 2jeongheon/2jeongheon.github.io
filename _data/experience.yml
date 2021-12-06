@@ -1,0 +1,24 @@
+- layout: left
+  company: (주)티비스톰
+  link: http://www.tvstorm.com/
+  job_title: Android Developer & 전문연구요원
+  dates: 2019.06 ~ 현재
+  description: | # this will include new lines to allow paragraphs
+    * 레거시 분석, 청소 및 기존 서비스 유지보수
+    * 5개 프로덕트 비즈니스 로직 모듈 공용화
+    * Kotlin•Jetpack•아키텍처 도입, 코드리뷰, PR 등 개발환경 개선
+    * 프로젝트 개발기간 단축 평균 <mark>30%</mark>
+    * 사업확장 TF 참여, 데모 어플리케이션 개발
+    * 입사 1년6개월차 성과인정 연봉인상률 <mark>57%</mark>
+- layout: left
+  company: 시니스트
+  link: https://www.sinest.co.kr/
+  job_title: Android Developer & 창업멤버
+  dates: 2016.04 ~ 2019.06
+  quote: >
+   #즐거운 디지털자산 플랫폼 [어댑터] 서비스
+  description: | # this will include new lines to allow paragraphs
+     * [어댑터] 아키텍처 설계 / 개발
+     * CI/CD 도입으로 QA배포 및 출시 프로세스 자동화
+     * 토큰지갑기능 Swift Framework을 Kotlin 라이브러리로 포팅
+     * 아웃소싱 프로젝트의 메인 Android Developer로 개발 / 관리

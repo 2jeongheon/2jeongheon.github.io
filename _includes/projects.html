@@ -1,0 +1,6 @@
+<div class="container projects-container">
+  <h3>{{ site.experience_title | default: "Projects" }}</h3>
+  {% for projects in site.data.projects %}
+    {% include {{ projects.layout | default: 'left' | append: ".html" | prepend: "v1/" }} item=projects %}</br></br>
+  {% endfor %}
+</div>

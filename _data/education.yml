@@ -1,0 +1,9 @@
+- layout: left
+  name: 인천대학교 임베디드시스템공학과 석사
+  dates: 2017.03 ~ 2019.02
+  description: | # this will include new lines to allow paragraphs
+    * 논문 [ARM Compute Library와 Neural Networks API를 이용한 임베디드 딥러닝 시스템 개발]
+- layout: left
+  name: 인천대학교 임베디드시스템공학과 학사
+  dates: 2012.03 ~ 2017.02
+  description: | # this will include new lines to allow paragraphs

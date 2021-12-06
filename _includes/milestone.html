@@ -1,0 +1,6 @@
+<div class="container projects-container">
+  <h3>{{ site.milestone_title | default: "Milestone" }}</h3>
+  {% for milestone in site.data.milestone %}
+    {% include {{ milestone.layout | default: 'left' | append: ".html" }} item=milestone %}
+  {% endfor %}
+</div>

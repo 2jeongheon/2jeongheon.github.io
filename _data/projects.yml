@@ -1,0 +1,140 @@
+- layout: top-middle
+  name: (주)티비스톰
+  link: 
+  quote: >
+    2019.06 ~ 현재
+
+- layout: left
+  id: 1
+  company: VOD추천 어플리케이션
+  link: 
+  job_title: 
+  dates: 2021.11
+  quote: >
+   사용자 선호도에 따른 추천VOD 정확도 평가 어플리케이션, IITP AI 국책과제 발표용 데모
+  description: | # this will include new lines to allow paragraphs
+    * 사용자 선호 VOD 평가, 추천리스트 보기 개발
+    * Compose 도입
+    * 상호작용 UI, 애니메이션 적극 사용
+    * Google Accompanist 사용
+    * 별점 평가 Composable 구현
+
+- layout: left
+  company: COVID-19 비대면 문진 키오스크
+  link: 
+  job_title: 
+  dates: 2021.06 ~ 2021.10
+  quote: >
+   COVID-19 의심증상을 음성대화로 문진하여 선별진료소로 안내하는 키오스크형 어플리케이션, IITP AI 국책과제 산출물
+  description: | # this will include new lines to allow paragraphs
+    * 채팅형식UI 구현
+    * 음성인식 서버(참여기관 솔트룩스 제공)와 WebSocket통신 개발
+    * 생체정보감지 센서(참여기관 가천대학교 제공)와 Bluetooth Serial 통신 개발
+    * WorkManager를 사용한 센서값 보정 백그라운드 작업
+
+- layout: left
+  company: VitalSign
+  link: 
+  job_title: 
+  dates: 2020.11 ~ 2021.01
+  quote: >
+   얼굴영상 기반 건강진단 어플리케이션, IITP AI 국책과제 산출물
+  description: | # this will include new lines to allow paragraphs
+    * Camera2 이미지 프레임 획득
+    * Tensorflow Lite 모델 추론
+    * COVID-19 현황 보기 구현
+    * 건강진단 내역보기 기능 구현
+
+- layout: left
+  company: Home IoT TV & Mobile
+  link: 
+  job_title: 
+  dates: 2020.02 ~ 2020.07
+  quote: >
+   TV셋톱박스를 Home IoT Hub로 사용하는 서비스
+  description: | # this will include new lines to allow paragraphs
+    * IoT Device의 센싱 정보를 셋톱박스에서 지속적으로 수신하여 로컬 및 원격 데이터베이스에 저장
+    * Mobile App과 TV App의 IoT Device 정보 실시간 동기화 (Firebase Realtime Database)
+    * Navigation 사용하여 특정 이벤트 수신시 해당 디바이스 컨트롤화면으로 이동
+    * 개발 중 사업 중단
+
+- layout: left
+  id: 2
+  company: OneStream & FMX Core
+  link: https://play.google.com/store/apps/details?id=com.bestv.fmgomobile&hl=ko&gl=US/
+  job_title: 
+  dates: 2019.12 ~ 2020.01
+  quote: >
+   인도네시아 OTT TV 어플리케이션
+  description: | # this will include new lines to allow paragraphs
+    * 기존에 운영중인 Mobile OTT FMX(First Media X)의 UseCase를 정리
+    * 공통 비즈니스 로직을 라이브러리화 (=FMX Core)
+    * 라이브 방송 편성표 TV UI 개발
+    * ExoPlayer, NagraSDK(DRM) 사용 스트리밍 재생
+
+- layout: left
+  company: 사내 서비스 리팩토링 & 유지보수
+  link: 
+  job_title: 
+  dates: 2019.06 ~ 2021.06
+  quote: >
+   인도네시아 OTT TV 어플리케이션
+  description: | # this will include new lines to allow paragraphs
+    * Android TV 셋톱박스 어플리케이션 유지보수
+    * 중복, 무의미, deprecated 코드 제거 및 수정
+    * MVVM 도입, 로직 분리
+    * 하드웨어 제조사의 차이점으로 인해 분산된 코드 취합 및 인터페이스 정의
+    * UI 리뉴얼
+
+- layout: top-middle
+  name: 시니스트
+  link: 
+  quote: >
+    2016.04 ~ 2019.06
+
+- layout: left
+  id: 어댑터
+  company: 어댑터
+  link: https://play.google.com/store/apps/details?id=com.sinest.todaycoin&hl=ko&gl=US/
+  job_title: 
+  dates: 2018.06 ~ 2019.06
+  quote: >
+   블록체인 커뮤니티 어플리케이션
+  description: | # this will include new lines to allow paragraphs
+    * 블록체인 관련 호재, 뉴스, 디앱 아티클 제공 서비스 개발
+    * 이더리움 기반 토큰 지갑 관리 기능 개발
+    * Clean Architecture 도입
+    * RxKotlin 도입, 복잡한 비동기 로직을 처리 + Error 핸들링 + Global Event 처리
+    * Dagger2 사용, 의존성 주입 컴포넌트 트리 및 인스턴스 생명주기 관리
+    * Domain, Data 레이어 Unit Test
+    * 빌드변형 구성으로 디버깅, 임직원, QA, 마켓릴리즈 빌드를 구성
+    * Bitrise를 사용하여 사내 테스트 배포 자동화, 마켓릴리즈 프로세스 자동화
+
+- layout: left
+  company: 어댑터 토큰 지갑
+  link: 
+  job_title: 
+  dates: 2018.12 ~ 2019.06
+  quote: >
+   Trust Wallet Core 기반 라이브러리
+  description: | # this will include new lines to allow paragraphs
+    * 토큰지갑기능 Swift Framework을 Kotlin 라이브러리로 포팅
+    * Trust Wallet Core의 Swift버전과 Java버전의 동작 차이를 보완하도록 구현
+    * 테스트 코드 작성 및 500여개 테스트 케이스 수행
+    * 라이브러리 문서화(KDoc) 및 버전관리
+
+- layout: left
+  company: 아웃소싱 프로젝트 Android 개발 / 관리
+  link: 
+  job_title: 
+  dates: 2016.04 ~ 2019.06
+  quote: >
+  description: | # this will include new lines to allow paragraphs
+    * 신발쇼핑 서비스 "바바라룩스" Demo 개발
+    * 자체서비스 원단 분류∙추천 플랫폼 "스와처" 개발
+    * 일용직 노동자용 구인 구직 플랫폼 "대리인력" 개발∙기획∙PM
+    * 공부시간 측정 앱 "공부왕" 개발
+    * 운동보조 및 자세교정 앱 "헬스뷰" Demo 개발∙기획∙PM
+    * 인테리어 계산견적 앱 "셀프공사" 개발
+    * 사주 운세 기반 커뮤니티 앱 "클로버" 개발
+
